@@ -1,19 +1,19 @@
-#SentimentScope: Movie Review Sentiment Analysis
+# SentimentScope: Movie Review Sentiment Analysis
 
-#Project Overview
+# Project Overview
 
 SentimentScope is a Natural Language Processing (NLP) project that uses a Transformer-based deep learning model to classify movie reviews as positive or negative.
 
 The project uses the IMDb movie review dataset and the DistilBERT pretrained model to understand the sentiment expressed in text reviews.
 
-#Objectives
+# Objectives
 
 - Analyze movie reviews using NLP techniques.
 - Classify reviews into positive and negative sentiments.
 - Fine-tune a pretrained Transformer model for sentiment classification.
 - Evaluate model performance using test accuracy.
 
-#Technologies Used
+# Technologies Used
 
 - Python
 - Google Colab
@@ -23,13 +23,13 @@ The project uses the IMDb movie review dataset and the DistilBERT pretrained mod
 - IMDb Movie Review Dataset
 - DistilBERT
 
-#Dataset
+# Dataset
 
 The project uses the IMDb movie review dataset, which contains movie reviews labeled as positive or negative.
 
 Dataset: "stanfordnlp/imdb"
 
-#Project Workflow
+# Project Workflow
 
 1. Load the IMDb dataset.
 2. Prepare training, validation, and test datasets.
@@ -39,14 +39,14 @@ Dataset: "stanfordnlp/imdb"
 6. Evaluate the trained model using the test dataset.
 7. Save the trained model for future inference.
 
-#Results
+# Results
 
 - Test Accuracy: 86%
 - Target Accuracy: 86%
 
 The model achieved 86% test accuracy in the completed experiment.
 
-#How to Run
+# How to Run
 
 1. Open the project notebook in Google Colab.
 2. Install the required Python libraries.
@@ -54,7 +54,7 @@ The model achieved 86% test accuracy in the completed experiment.
 4. Run the preprocessing and tokenization steps.
 5. Train and evaluate the model.
 
-#Project Structure
+# Project Structure
 
 SentimentScope/
 ├── README.md
@@ -67,7 +67,7 @@ SentimentScope/
 
 Note: The model folder structure depends on the files included in your final submission.
 
-#Future Enhancements
+# Future Enhancements
 
 - Improve model accuracy through hyperparameter tuning.
 - Build a simple web application for sentiment prediction.
