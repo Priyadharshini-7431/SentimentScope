@@ -57,6 +57,7 @@ The model achieved 86% test accuracy in the completed experiment.
 # Project Structure
 
 SentimentScope/
+
 ├── README.md
 ├── SentimentScope.ipynb
 ├── requirements.txt
