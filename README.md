@@ -60,7 +60,7 @@ SentimentScope/
 ├── README.md
 ├── SentimentScope.ipynb
 ├── requirements.txt
-└── model/
+└── SentimentScope-main.zip/
     ├── config.json
     ├── model.safetensors
     └── tokenizer files
